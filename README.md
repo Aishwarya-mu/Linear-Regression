@@ -13,7 +13,7 @@ Where, a is the intercept, b is the slope of the line, and e is the error term. 
 
 Linear Regression Project:
 
-Here, I will also try to deploy a simple linear regression project with the admission dataset. I have deployed it on GCP(Google cloud platform).
+Here, I will also try to deploy a simple linear regression project with the admission dataset. I have deployed it on GCP(Google cloud platform). The link to the app is linearregression-283713.el.r.appspot.com
 
 Linear Regression (boston data) using scikit_learn:
 
